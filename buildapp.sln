@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buildapp", "buildapp\buildapp.csproj", "{57B200B3-C135-442B-9068-4EF676026330}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57B200B3-C135-442B-9068-4EF676026330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B200B3-C135-442B-9068-4EF676026330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B200B3-C135-442B-9068-4EF676026330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B200B3-C135-442B-9068-4EF676026330}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11BF04BD-B0C5-4F9D-ABB0-01A26E30F401}
+	EndGlobalSection
+EndGlobal
